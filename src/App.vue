@@ -3,8 +3,6 @@
   <b-alert variant="info" show>
     //TODO
   </b-alert>
-  <!-- test -->
-  
 </div>
 </template>
 
